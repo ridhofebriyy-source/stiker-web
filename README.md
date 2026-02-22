@@ -1,2 +1,0 @@
-# stiker-web
-stiker lucu
